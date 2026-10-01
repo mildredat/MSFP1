@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Nombres y Apellidos \[No. Control]; correo institucional
+Mildred Angel Torales \[23212731]; L23212731@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
